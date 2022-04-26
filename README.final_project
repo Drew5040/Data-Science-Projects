@@ -15,8 +15,10 @@ The presentation video goes more into detail about what all this means.
 
 ############################ A NOTE ON RETURNS #################################
 
-Keep in mind the formula that was used to find the return does not include compounding. Therefore, you can think of and interpret return, in this context, as how much or how little return you would have gotten if you invested a fixed amount of money at the beginning of each period. 
-So, if we have an average return of .05%  for a particular week that means that if you invested $1000 at the start of the week and then sold at the end of the week you would have made .05%. Which is roughly $50.00
+Keep in mind the formula that was used to find the return does not include compounding. Therefore, you can think of and interpret return, in this context, 
+as how much or how little return you would have gotten if you invested a fixed amount of money at the beginning of each period. 
+So, if we have an average return of .05%  for a particular week that means that if you invested $1000 at the start of the week and then sold at the end of 
+the week you would have made .05%. Which is roughly $50.00
 
 
 ######################### THE CHALLENGES OF THE PROJECT ############################
