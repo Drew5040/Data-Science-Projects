@@ -1,0 +1,28 @@
+VIDEO LINK
+https://github.com/Cryptoversion/proXimo/blob/main/final_project_.mp4
+
+CODE LINK
+
+INTRODUCTION
+
+Hello everyone, my name is Andrew O'Drain. Today I am going to demonstrate my final project for CIS 1051: Introduction to Problem solving and programming in Python.
+I am a senior and will be graduating this fall  with a B.S in Science in Statistical Science and Data Analytics. The title of the project is “Using Modern Portfolio 
+Theory and Monte Carlo Simulation for Portfolio Optimization”. For those of you who do not already know what portfolio optimization is, 
+it is the process of  allocating the total sum of an initial investment to a portfolio (let’s say $1000 USD) 
+such that volatility (or, standard deviation) is minimized, while expected return and Sharpe ratio is maximized.
+The presentation video goes more into detail about what all this means.
+
+############################ A NOTE ON RETURNS #################################
+
+Keep in mind the formula that was used to find the return does not include compounding. Therefore, you can think of and interpret return, in this context, as how much or how little return you would have gotten if you invested a fixed amount of money at the beginning of each period. 
+So, if we have an average return of .05%  for a particular week that means that if you invested $1000 at the start of the week and then sold at the end of the week you would have made .05%. Which is roughly $50.00
+
+
+######################### THE CHALLENGES OF THE PROJECT ############################
+
+There were many challenges with this project. The first was researching relatively new Python packages like Plotly express, and NumPy. 
+I have used them in the past but not to this extent. The most challenging part of this project was the simulation portion. However,  
+creating a singular version of the  desired output ( a portfolio)helped a great deal because I knew once that was figured out all that needed
+to be done was to wrap everything in a loop. This way of thinking, which I have learned over the last few months has dramatically improved how 
+I code and try to solve problems 
+
