@@ -1,7 +1,6 @@
 
 # Andrew O'Drain
-# 12/5/2022
-# Time Series: final project
+# Time Series: Forecasting Bitcoin Price
 
 library(stats)
 library(TSA)
