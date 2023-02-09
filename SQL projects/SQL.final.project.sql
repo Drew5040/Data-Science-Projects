@@ -1,9 +1,7 @@
 
 
 -- Andrew O'Drain
--- CIS 2109
--- December 12, 2022
--- Final Project
+-- Creating a mock database for a Covid-19 testing site
 
 
 -- create ZIP CODE table
