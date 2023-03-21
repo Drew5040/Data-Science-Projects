@@ -1,17 +1,16 @@
 import plotly.graph_objects as go
 import numpy as np
 import pandas as pd
-
-# Read in data from CSv
 from matplotlib import pyplot as plt
 
+# Read in data from CSv
 df = pd.read_csv("../Log.Rainbow.Regression/LINK-USD.csv")
 
 # Convert Date-time to pandas readable format
 df["Date"] = pd.to_datetime(df["Date"])
 
 # Grab latest price
-latest_price = df["Value"].iloc[1517]
+latest_price = df["Value"].iloc[1957]
 
 # Creates a profit column in our dataframe
 df["Profit"] = df["Value"]
