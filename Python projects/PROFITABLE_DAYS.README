@@ -1,0 +1,5 @@
+
+
+The profitable days chart shows an investor if they are currently in profit or currently in loss depending on the day on which they bought Chainlink. If the investor 
+bought in the red, it signals they are currently in loss. If the investor bought in the green zone, they are in profit. The chart also calculate the # of profitable 
+days and the ratio of total days to profitable days
