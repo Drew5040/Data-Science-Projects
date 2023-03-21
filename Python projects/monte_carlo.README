@@ -1,0 +1,5 @@
+INTRODUCTION
+
+The title of the project is “Using Modern Portfolio Theory and Monte Carlo Simulation for Portfolio Optimization”. For those of you who do not already know what 
+portfolio optimization is, it is the process of  allocating an initial investment to differing assets within a portfolio (let’s say $1000 USD) 
+such that volatility (standard deviation) is minimized, while expected return and Sharpe ratio is maximized.
