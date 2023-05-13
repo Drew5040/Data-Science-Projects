@@ -6,4 +6,7 @@ Hello,
 If you do not know how to download and view the jupyter notebook, feel free to copy & paste the link below :
 and you will be redirected to the jupyter notebook viewer.
 
+This is the first iteration of a logistic regression model I built to predict whether someone has heart disease.
+The sklearn and scikit-optimize Python libraries were utilized. 
+
 Thank you, and enjoy!
