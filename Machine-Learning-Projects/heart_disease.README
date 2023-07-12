@@ -3,12 +3,9 @@
 
 Hello,
 
-If you do not know how to download and view the jupyter notebook, feel free to copy & paste the link below :
-and you will be redirected to the jupyter notebook viewer.
+If you do not know how to download and view the jupyter notebook, or you cannot view the notebook through GitHub, feel free to copy & paste the link below into
+your browser and you will be redirected to the jupyter notebook viewer where you can view the logistic regression model
 
 https://nbviewer.org/github/Drew5040/Data-Science-Projects/blob/main/Machine-Learning-Projects/heart.failure.prediction.ipynb
-
-This is the first iteration of a logistic regression model I built to predict whether someone has heart disease.
-The sklearn and scikit-optimize Python libraries were utilized. 
 
 Thank you, and enjoy!
