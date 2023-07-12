@@ -4,8 +4,8 @@
 ########################################
 
 This project was completed in Dec 2022.
-It involves explaining then performing principal component analysis.
-R was used for the data visualization.
+It explains the essential eigenvalue decomposition process used in pricipal component analysis.
+NOTE: R was used for the data visualization.
 
 
 
